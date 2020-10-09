@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Kimetsu no Yaiba",
+        "tel": "000000000",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "One Piece",
+        "tel": "000000001",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "One Punch Man",
+        "tel": "000000002",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Tokyo Goul",
+        "tel": "000000003",
+        "permission": 3
+    },
+    {
+        "id": 5,
+        "name": "Inuyasha",
+        "tel": "000000004",
+        "permission": 3
+    }
+]
